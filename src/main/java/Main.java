@@ -1,3 +1,24 @@
+/*
+
+Class: COP 2800: Java Programming
+Instructor: Francis Fiskey
+
+*6.5 (Sort three numbers) Write a method with the following header to display three numbers in increasing order:
+
+public static void displaySortedNumbers(double num1, double num2, double num3)
+
+Write a test program that prompts the user to enter three numbers and invokes the method to display them in increasing order.
+
+Due: Oct 27 by 11:59pm
+
+I pledge by honor that I have completed the programming assignment independently.
+I have not copied the code from a student or any source.
+I have not given my code to any student.
+Sign here:   
+ ___Eric Snyder___
+
+*/
+
 import java.util.Scanner; // import the scanner class
 
 public class Main { // open the class block
